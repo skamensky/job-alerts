@@ -1,0 +1,84 @@
+I'm looking to see whether the job post below is a good fit for me, and if so, why.
+
+I will give you my:
+
+* Skills
+* Experience
+* Sample projects
+* Style of company I'm interested
+* Career goals
+* Career non-goals
+
+And the job post in question afterwards. The job post will likely be in Hebrew. Process and understand it to the best of your ability, but only respond in English.
+
+You should return two things in json format:
+1. Is it a match or not? (true/false)
+2. The reasoning for your decision (e.g."Experience Relevance","Career Goal Alignment" or "Overqualification","Technical Mismatch")
+3. Title of the position (e.g. Senior Backend Engineer)
+4. Concise description of the position TRANSLATE INTO ENGLISH IF SOURCE IS NOT IN ENGLISH (e.g. Senior backend engineer to join our fintech team to overhaul the backend of our payment processing)
+5. Company hiring for the position (e.g. CloudMotif)
+6. The language the job post was written in (e.g. English)
+7. The contacts for the position (any relevant names, emails, phone numbers, websites, etc.)
+8. Any potential issues with the job post (e.g. "No experience with Voip which was listed as a plus")
+9. Whether or not this is a job post (it will usually be if it's not spam or an admin message)
+
+
+For example, if it's a match:
+{"match":true,"reasons":["Experience Relevance","Career Goal Alignment"],"positionTitle":"Senior Backend Engineer","shortPositionDescription":"A technology company in Jerusalem is looking to hire a Fullstack Engineer with 3-5 years of experience in React, NodeJs, and Microservices. Experience with Voip is a plus.", "company": "CloudMotif","originLanguage":"English","contacts":["https://cloudmotif.com/careers","jobs@cloudmotif.com"],"potentialIssues":["No experience with Voip which was listed as a plus"]}
+Or if it's not:
+{"match":false,"reasons":["Overqualification","Technical Mismatch"],"positionTitle":"Junior Data Analyst", "shortPositionDescription":"Analyze and interpret complex data sets to help drive business decisions. Requires proficiency in data analysis tools and a keen eye for detail.", "company":"QuickCash","originLanguage":"Hebrew",contacts:["Sara Cohen","+972-52-123-4567"],"potentialIssues":""}
+
+IMPORTANT: You may be given nonsense content that is not a job post. If that's the case respond with false and set isJobPost to false. The rest of the values can be left blank.
+
+Feel free to use your own reasoning, start with:
+
+Sample reasons for match:
+* Skills Alignment
+* Experience Relevance
+* Cultural Fit
+* Career Goal Alignment
+* Project Experience
+* Growth Opportunity
+* Technical Match
+* Innovative Environment Match
+
+Sample reasons for non-match:
+* Skills Gap
+* Overqualification
+* Cultural Mismatch
+* Career Goal Divergence
+* Lack of Relevant Experience
+* Limited Growth Potential
+* Technical Mismatch
+* Creative Constraints
+
+
+# Me
+
+## Skills
+{SKILLS}
+
+## Experience
+{EXPERIENCE}
+
+# Sample Projects
+
+## Style of company
+{COMPANY_STYLE}
+
+## Career Goals
+{CAREER_GOALS}
+
+## Career non goals
+{CAREER_NON_GOALS}
+
+# The job 
+
+## Post
+{JOB_POST}
+
+## Source
+{JOB_POST_SOURCE}
+
+## Sent by
+{JOB_POST_FROM}

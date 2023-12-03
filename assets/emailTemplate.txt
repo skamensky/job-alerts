@@ -1,0 +1,24 @@
+<h1>Job Alert found a potential matching position.</h1>
+      
+<h2>Job Description</h2>
+{{SHORT_POSITION_DESCRIPTION}}
+
+<h2>Reasons for matching</h2>
+<ul>
+{{REASONS}}
+</ul>
+
+<h2>Potential Issues</h2>
+<ul>
+{{POTENTIAL_ISSUES}}
+</ul>
+
+
+<h3>Contact</h3>
+<ul>
+{{CONTACTS}}
+</ul>
+
+
+<h2>Source</h2>
+{{SOURCE}}

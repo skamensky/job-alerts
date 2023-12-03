@@ -1,0 +1,48 @@
+# Backend Software Engineer
+
+- LinkedIn: [linkedin.com/in/shmuelkamensky](https://linkedin.com/in/shmuelkamensky)
+
+## Professional Summary  
+- 9 years of development experience, specializing in learning surrounding systems for maximum productivity.
+- Skills in Backend, Frontend, Database, DevOps, and Microservices, with some experience in systems programming.
+- Aspires to join a team valuing personal development, collaboration, and vision.
+
+## Professional Experience
+
+1. **Shutterfly Inc.**  
+   _Backend Software Engineer (2020-2023)_
+   - Authored cloud-lifecycle libraries saving $30,000 yearly.
+   - Developed and maintained data pipelines and release infrastructure.
+   - Created developer tools for AWS operations.
+   - Led a Sphinx documentation initiative.
+   - Maintained the web application for Shutterfly emails.
+
+2. **Prime Capital (now Region Capital)**  
+   _Freelance Backend Software Engineer (2019-2020)_
+   - Saved $50,000 in annual licensing fees by transitioning from Salesforce to a custom CRM.
+   - Created and maintained a custom CRM system.
+   - Migrated from a Google Sheets-based system to the CRM.
+   - Authored a Python trigger framework for Postgres.
+   - Reverse-engineered Vonage VOIP for improved webapp performance.
+
+3. **Business Capital**  
+   _Senior Salesforce Engineer (2016–2019)_
+   - Developed a renewal system increasing annual profits by 15%.
+   - Engineered a daily deduplication process for customer data.
+   - Developed Gmail to Salesforce integration.
+   - Reverse-engineered DemandTools for specific business needs.
+   - Created a custom flexible job queue system for Salesforce.
+
+4. **Pearl Capital**  
+   _Salesforce Developer_
+   - Managed automation, reports, and user/security management for over 100 users.
+   - Addressed database security design flaws and documented changes.
+   - Implemented e-sign to speed up sales closing.
+   - Audited reports for data accuracy and managed external data export.
+
+## Education
+
+- **New York City Tech (CUNY)**  
+  _Computer Science, Associate of Science (Honors)_  
+  GPA: 96%  
+  2014-2016

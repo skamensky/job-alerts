@@ -1,0 +1,89 @@
+
+# Skills
+
+- System Optimization and Cost Savings: At Shutterfly and Prime Capital, I implemented solutions that resulted in significant annual savings, showcasing my ability to optimize systems and processes for financial efficiency.
+- Versatility in Software Development: My proficiency spans a broad spectrum of technologies, including backend, frontend, databases, DevOps, microservices, Kafka, React, and more. This versatility allows me to handle diverse aspects of software development.
+- Serverless and Scalability: With experience in Lambda and serverless architectures, I'm equipped to design systems that are scalable, cost-effective, and efficient.
+- Custom Solution Development: I've demonstrated my capability to tailor software to specific business needs, like when I developed a custom CRM for Prime Capital.
+- Data Management and Integration: My expertise in creating data pipelines, migrating data systems, and integrating platforms is crucial for businesses in today's data-centric world.
+- Problem Solving and Innovation: My knack for reverse engineering tools and systems, combined with an innovative approach, ensures that I can adapt and optimize tools to better fit business requirements.
+- Documentation and Knowledge Sharing: I've spearheaded documentation initiatives, emphasizing the importance of knowledge sharing and ensuring that teams can leverage developed systems effectively.
+- Database Security and Management: My experience in resolving database security issues and managing user automation highlights my commitment to data integrity and security.
+- Sales and CRM Expertise: With extensive Salesforce experience and CRM development, I've become an asset for businesses aiming to optimize customer relationship management.
+- Developer Tools and DevOps: I've created developer tools for AWS and have expertise in DevOps practices, streamlining development processes and enhancing deployment efficiency.
+- Linux and Web Server Management: My knowledge of Linux and Nginx provides a strong foundation in server management, ensuring optimized and secure web services.
+- Frontend Development: With skills in React, I can contribute to creating intuitive and responsive user interfaces, enhancing user experience.
+- Collaboration and Teamwork: I'm inclined towards collaborative environments, valuing collective efforts and shared goals.
+- Continuous Learning: My diverse skill set, combined with an impressive educational background, underscores my commitment to personal development and staying updated with the latest in tech.
+
+With this comprehensive blend of technical expertise, innovation, and a collaborative spirit, I believe I can bring immense value to businesses looking to innovate, optimize, and scale their tech solutions.
+
+# Technical proficiencies
+
+## Programming Languages:
+
+- Python
+- Javascript
+- SQL
+- Go
+- PL/SQL
+- Java
+- Apex (Salesforce)
+- Bash
+
+## Web Development:
+
+- Flask
+- Django
+- Spring Boot
+- React
+- Go as a backend
+- Heroku
+
+## Databases:
+
+- Postgres
+- Redshift
+- Athena
+- BigQuery
+- Redis
+- Spark
+- Salesforce
+
+
+## Cloud & DevOps:
+
+- AWS (EMR, EC2, S3, CloudFormation, Lambda, IAM, Terraform, SQS)
+- Docker
+- Kafka
+- Google Apps Script
+- Airflow
+
+## Tools & Platforms:
+
+- Salesforce
+- Sphinx
+- Chrome DevTools
+- .NET Reflector
+- Docusign
+
+## Version Control & Documentation:
+
+- Github
+- JavaDoc
+
+## Software & Applications:
+
+- Google Sheets (advanced application development)
+
+## Concepts & Techniques:
+
+- Microservices
+- Systems Programming
+- CRM Development
+- Data Pipelines
+- Release Infrastructure
+- Reverse Engineering
+- Web Application Maintenance
+- Database Security
+- Data Accuracy Auditing
